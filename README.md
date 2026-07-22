@@ -9,12 +9,14 @@ Sistemin başarımını ve ayırt ediciliğini ölçmek amacıyla 4 adet Gizlili
 Analiz çıktılarının kalitesi, çift kör (double-blind) bir değerlendirme süreciyle bağımsız hakem modeller (Gemini ve Claude) tarafından 1-10 arası puanlanmıştır.
 
 ## Klasör Yapısı
+<pre>
 LLM-Contract-Analysis-Dataset/
 ├── contracts/       8 adet analiz edilmiş sözleşme (PDF) — 4 NDA + 4 Yatırım Sözleşmesi
 ├── prompts/         Değerlendirme (hakem) promptları (TXT)
 ├── results/         CSV (ham puanlama verisi) + PDF (tablolaştırılmış sonuçlar/sunum)
 ├── LICENSE
 └── README.md
+</pre>
 
 
 ## Metodoloji Özeti
