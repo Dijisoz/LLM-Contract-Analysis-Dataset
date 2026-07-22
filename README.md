@@ -12,7 +12,7 @@ Analiz çıktılarının kalitesi, çift kör (double-blind) bir değerlendirme 
 <pre>
 LLM-Contract-Analysis-Dataset/
 ├── contracts/       8 adet analiz edilmiş sözleşme (PDF) — 4 NDA + 4 Yatırım Sözleşmesi
-├── prompts/         Değerlendirme (hakem) promptları (TXT)
+├── prompts/         Dijisöz Analizlerini Değerlendirme Yapan Denetleyici LLM promptları (TXT)
 ├── results/         CSV (ham puanlama verisi) + PDF (tablolaştırılmış sonuçlar/sunum)
 ├── LICENSE
 └── README.md
